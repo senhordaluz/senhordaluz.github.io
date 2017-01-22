@@ -2,3 +2,7 @@ body {
 	background-color: #006400;
 	color: #FFEBCD;
 }
+@viewport{
+	zoom: 1.0;
+	width: extend-to-zoom;
+}
